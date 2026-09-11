@@ -8,6 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/2.0.0/),
 
 ### Added
 
+- Keyboard Mode by [@repinek] ([#38])
 - GitHub Actions CI workflow to build and upload the script and APK on every commit
 
 ### Changed
@@ -57,6 +58,7 @@ Initial release
 [@dependabot]: https://github.com/dependabot
 
 [#45]: https://github.com/astra1dev/MalumMenu-Android/pull/45
+[#38]: https://github.com/astra1dev/MalumMenu-Android/pull/38
 [#22]: https://github.com/astra1dev/MalumMenu-Android/pull/22
 [#11]: https://github.com/astra1dev/MalumMenu-Android/pull/11
 [#10]: https://github.com/astra1dev/MalumMenu-Android/pull/10

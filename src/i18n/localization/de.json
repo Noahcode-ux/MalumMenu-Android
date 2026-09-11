@@ -40,7 +40,8 @@
             "disable_analytics": "Disable Analytics",
 
             "uwuify": "UwU?",
-            "select_platform": "Select Platform"
+            "keyboard_mode": "Tastatur-Modus",
+            "keyboard_mode_note": "Benötigt eine physische Tastatur. Touch-Steuerung funktioniert möglicherweise nicht."
         },
         "other": {
             "language": "Select Language",
