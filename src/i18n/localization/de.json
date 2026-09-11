@@ -39,7 +39,9 @@
             "full_resolution": "Volle Auflösung",
             "disable_analytics": "Disable Analytics",
 
-            "uwuify": "UwU?"
+            "uwuify": "UwU?",
+            "keyboard_mode": "Tastatur-Modus",
+            "keyboard_mode_note": "Benötigt eine physische Tastatur. Touch-Steuerung funktioniert möglicherweise nicht."
         },
         "other": {
             "language": "Select Language",
