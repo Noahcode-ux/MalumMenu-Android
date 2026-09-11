@@ -182,6 +182,7 @@ See [CONTRIBUTING.md](docs/CONTRIBUTING.md)
 - [fallguys-frida-modmenu](https://github.com/repinek/fallguys-frida-modmenu) - main inspiration for this project, utils & modules & i18n logic
 - [MalumMenu](https://github.com/scp222thj/MalumMenu) - Among Us cheat menu for PC
 - [gplaydl](https://github.com/rehmatworks/gplaydl) - CLI Google Play Store APK downloader
+- [AndroidUtilities](https://github.com/All-Of-Us-Mods/AndroidUtilities) - inspiration for Keyboard Mode
 
 # ⚠️ Disclaimer
 
