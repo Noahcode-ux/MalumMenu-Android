@@ -8,6 +8,7 @@ export const State = {
     walkInVents: false,
 
     unlockCosmetics: false,
+    accountBypassChatUnlock: false,
     disableAnalytics: false,
     uwuifyMode: false,
     keyboardMode: false

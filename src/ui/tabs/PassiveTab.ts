@@ -20,6 +20,12 @@ export class PassiveTab {
         );
 
         add(
+            layout.toggle(I18n.t("menu.functions.account_bypass_chat_unlock"), (state: boolean) => {
+                State.accountBypassChatUnlock = state;
+            })
+        );
+
+        add(
             layout.toggle(
                 I18n.t("menu.functions.full_resolution"),
                 UnityUtils.run((state: boolean) => {
